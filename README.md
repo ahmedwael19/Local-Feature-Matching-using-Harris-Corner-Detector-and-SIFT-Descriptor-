@@ -43,7 +43,7 @@ The SIFT descriptor output a matrix k*n where k is number of interest points and
 
 
 ### Algorithm 
-You can find the algorithm expalined thoroughly in the report.
+You can find the algorithm explained thoroughly in the report.
 
 ## Feature Matching 
 
@@ -57,4 +57,4 @@ You can find the algorithm expalined thoroughly in the report.
 ![](https://github.com/ahmedwael19/Local-Feature-Matching-using-Harris-Corner-Detector-and-SIFT-Descriptor-/blob/master/report/out_2_arr.jpg)
 
 ### Algorithm 
-You can find the algorithm expalined thoroughly in the report.
+You can find the algorithm explained thoroughly in the report.
